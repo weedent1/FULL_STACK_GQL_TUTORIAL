@@ -7,3 +7,5 @@ Navigate to `FULL_STACK_GQL_TUTORIAL/fullstack-tutorial/start/server` then run `
 
 ### Start front end
 Navigate to `FULL_STACK_GQL_TUTORIAL/fullstack-tutorial/start/client` then run `npm start`
+
+### Then navigate to http://localhost:3000/
